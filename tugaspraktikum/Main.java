@@ -1,5 +1,3 @@
-package tugaspraktikum;
-
 // Import class / library yang dibutuhkan
 import javax.swing.*;
 
