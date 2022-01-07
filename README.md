@@ -16,9 +16,12 @@ di codingan saya ini mencakup dasar dasar array seperti :
 # Daftar Isi dan Nomor Untuk Modul 5
 
 A.Tugas Pendahuluan
-04. Mencari Index Array -> indexArray.java
-05. Looping Array       -> loopingArray.java
-06. Rata Rata Array     -> ratarataArray.java
+
+4. Mencari Index Array -> indexArray.java
+
+5. Looping Array       -> loopingArray.java
+
+6. Rata Rata Array     -> ratarataArray.java
 
 B.Tugas Praktikum
 
